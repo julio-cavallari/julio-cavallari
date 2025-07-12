@@ -30,4 +30,4 @@ I'm a **Full Stack Developer** with a passion for **Backend Development** and **
 
 ## OS
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
